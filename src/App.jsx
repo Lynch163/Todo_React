@@ -1,5 +1,9 @@
 import Todo from "./components/Todo.jsx";
 
-const App = () => <Todo />
+const App = () => {
+    return (
+        <Todo />
+    )
+}
 
 export default App
